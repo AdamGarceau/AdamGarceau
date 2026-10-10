@@ -8,7 +8,6 @@ I'm a marketer by trade. Turns out that's the advantage. I know what's actually 
 
 ### Things I've built
 
-🔨 **[Forge](https://github.com/AdamGarceau/forge)** — Idea to validated MVP for any software, even if you can't code. Validates the idea with a synthetic audience before building anything, then builds and tests it. My whole process, open-sourced as a Claude Code skill.
 
 🧭 **[Deadreckon](https://github.com/AdamGarceau/deadreckon)** — Offline land navigation from a photo of a paper topo map, built from the Army field manual (TC 3-25.26). Calibrate the grid, plot GPS, shoot azimuths, no signal required. Next.js PWA, wrapped for iOS with Capacitor. Live at [deadreckon.adamgarceau.com](https://deadreckon.adamgarceau.com).
 
